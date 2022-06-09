@@ -1,11 +1,11 @@
 # Bot Público y Servidor de Soporte!
 
-<a href="https://discord.gg/d232jBTj3T"><img src="https://discordapp.com/api/guilds/879397504075063297/widget.png?style=banner2"></a>
+<a href="https://discord.gg/d232jBTj3T"><img src="https://cdn.discordapp.com/attachments/983551427769139231/984318019289370654/unknown.jpg"></a>
  
 
 # ⚠ IMPORTANTE ⚠
 Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas sobre como se usa, unete al Discord de Soporte!
-<br>💛 Apoya el desarollo [**donándonos**](https://paypal.me/deustouh) 
+<br>💛 Apoya el desarollo [**donándonos**](https://www.paypal.me/tinchoge)
 
 # Guía de Instalación 🔥
 
