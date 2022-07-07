@@ -3,10 +3,6 @@
 <a href="https://discord.gg/d232jBTj3T"><img src="https://cdn.discordapp.com/attachments/948152183919083560/994439568948473966/banner.png"></a>
  
 
-# ⚠ IMPORTANTE ⚠
-Gracias por usar este código! Porfavor, si tienes dudas, errores o preguntas sobre como se usa, unete al Discord de Soporte!
-<br>💛 Apoya el desarollo [**donándonos**](https://www.paypal.me/tinchoge)
-
 # Guía de Instalación 🔥
 
 
