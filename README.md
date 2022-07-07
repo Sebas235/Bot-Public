@@ -1,6 +1,6 @@
 # Bot Público y Servidor de Soporte!
 
-<a href="https://discord.gg/d232jBTj3T"><img src="https://cdn.discordapp.com/attachments/983551427769139231/984318019289370654/unknown.jpg"></a>
+<a href="https://discord.gg/d232jBTj3T"><img src="https://cdn.discordapp.com/attachments/948152183919083560/994439568948473966/banner.png"></a>
  
 
 # ⚠ IMPORTANTE ⚠
